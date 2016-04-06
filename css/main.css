@@ -41,8 +41,8 @@ section {
   height: 50%; }
 
 .navbar {
-  transition: all 1s;
-  -webkit-transition: all 1s; }
+  transition: all 10s;
+  -webkit-transition: all 10s; }
 
 .navbar-brand {
   padding: 21px 1px 0 0; }
